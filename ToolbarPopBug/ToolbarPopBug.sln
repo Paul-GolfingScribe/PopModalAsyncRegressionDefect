@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolbarPopBug.iOS", "ToolbarPopBug.iOS\ToolbarPopBug.iOS.csproj", "{2DF941D3-8C04-4921-BC81-631BA8F411D8}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ToolbarPopBug", "ToolbarPopBug\ToolbarPopBug.shproj", "{0D34CA7F-C7E8-4D50-907E-80C433DBA465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.Release|iPhone.Build.0 = Release|iPhone
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{2DF941D3-8C04-4921-BC81-631BA8F411D8}.AppStore|iPhone.Build.0 = AppStore|iPhone
+	EndGlobalSection
+EndGlobal

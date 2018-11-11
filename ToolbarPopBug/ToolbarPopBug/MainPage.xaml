@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:ToolbarPopBug" x:Class="ToolbarPopBug.MainPage">
+    <StackLayout>
+        <Label Text="PopModalAsync using Xamarin Forms v2.3.4.270 does not crash with iOS 8.1" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Button Text="Golfer Navigation" Clicked="GolferModalNavigationOnClicked" VerticalOptions="CenterAndExpand"/>
+    </StackLayout>
+</ContentPage>
